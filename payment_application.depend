@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1661488643 source:h:\embedded systems (professional)\projects\project_1\payment_application\card\card.c
+	<string.h>
+	"card.h"
+
+1661467672 h:\embedded systems (professional)\projects\project_1\payment_application\card\card.h
+	<stdio.h>
+	<stdint.h>
+
+1661471062 source:h:\embedded systems (professional)\projects\project_1\payment_application\main.c
+	<stdio.h>
+	"Application/app.h"
+
+1661467576 h:\embedded systems (professional)\projects\project_1\payment_application\terminal\terminal.h
+	<stdio.h>
+	<stdint.h>
+	"../Card/card.h"
+
+1661501408 source:h:\embedded systems (professional)\projects\project_1\payment_application\terminal\terminal.c
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"terminal.h"
+
+1661981682 source:h:\embedded systems (professional)\projects\project_1\payment_application\application\app.c
+	<stdio.h>
+	<stdlib.h>
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+	"../Server/server.h"
+	"app.h"
+
+1661460108 h:\embedded systems (professional)\projects\project_1\payment_application\application\app.h
+
+1661495642 h:\embedded systems (professional)\projects\project_1\payment_application\server\server.h
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+
+1661983819 source:h:\embedded systems (professional)\projects\project_1\payment_application\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+	"server.h"
+
+1661981682 source:h:\embedded systems (professional)\projects\1.project c\project_1\payment_application\application\app.c
+	<stdio.h>
+	<stdlib.h>
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+	"../Server/server.h"
+	"app.h"
+
+1661467672 h:\embedded systems (professional)\projects\1.project c\project_1\payment_application\card\card.h
+	<stdio.h>
+	<stdint.h>
+
+1661467576 h:\embedded systems (professional)\projects\1.project c\project_1\payment_application\terminal\terminal.h
+	<stdio.h>
+	<stdint.h>
+	"../Card/card.h"
+
+1661495642 h:\embedded systems (professional)\projects\1.project c\project_1\payment_application\server\server.h
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+
+1661460108 h:\embedded systems (professional)\projects\1.project c\project_1\payment_application\application\app.h
+
+1661488643 source:h:\embedded systems (professional)\projects\1.project c\project_1\payment_application\card\card.c
+	<string.h>
+	"card.h"
+
+1663340698 source:h:\embedded systems (professional)\projects\1.project c\project_1\payment_application\main.c
+	<stdio.h>
+	"Application/app.h"
+
+1661501408 source:h:\embedded systems (professional)\projects\1.project c\project_1\payment_application\terminal\terminal.c
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"terminal.h"
+
+1663341136 source:h:\embedded systems (professional)\projects\1.project c\project_1\payment_application\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+	"server.h"
+
